@@ -5,14 +5,31 @@ body{
     background-size: cover;
 }
 
-#caixa{
-
-    background-color: blueviolet;
-    height: 100px;
-    width:  auto;
+  #nome{
+    font-size: 60px;
     
-}
+  }
+    
+
 .ifpr {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #7f4caf;
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 5px;
+  }
+  .instagram{
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #7f4caf;
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 5px;
+  }
+  .github{
     display: inline-block;
     padding: 10px 20px;
     background-color: #7f4caf;
@@ -30,4 +47,6 @@ body{
     color: #7003ff;
    font-size: 20px;
   }
-  
+  #p{
+    color: yellow;
+  }
