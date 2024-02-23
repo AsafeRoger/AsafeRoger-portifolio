@@ -1,20 +1,29 @@
-body{
-    background-color: rgb(255, 255, 255);
-    border: 0px;
-    background-image: url(https://static.significados.com.br/foto/nova-bandeira-do-orgulho-lgbt.jpg);
-    background-size: cover;
-}
 
+body{
+    background-color: rgb(180, 178, 178);
+    border: 0px;
+    
+}
+#Titulo{
+    margin: 0 auto;
+    border: 1px solid #333;
+    width: auto;
+    
+
+}
   #nome{
     font-size: 60px;
-    
+    text-align: center;
   }
-    
+  #sla{
+    text-align: center;
+
+  }  
 
 .ifpr {
     display: inline-block;
     padding: 10px 20px;
-    background-color: #7f4caf;
+    background-color: #333;
     color: white;
     text-decoration: none;
     font-size: 16px;
@@ -23,7 +32,7 @@ body{
   .instagram{
     display: inline-block;
     padding: 10px 20px;
-    background-color: #7f4caf;
+    background-color: #333;
     color: white;
     text-decoration: none;
     font-size: 16px;
@@ -32,7 +41,7 @@ body{
   .github{
     display: inline-block;
     padding: 10px 20px;
-    background-color: #7f4caf;
+    background-color: #333;
     color: white;
     text-decoration: none;
     font-size: 16px;
@@ -44,9 +53,15 @@ body{
     color: rgb(0, 0, 0);
   }
   .destaque {
-    color: #7003ff;
+    color: yellow;
    font-size: 20px;
   }
   #p{
     color: yellow;
   }
+
+ #img{
+
+    width:300px;
+    
+ }
